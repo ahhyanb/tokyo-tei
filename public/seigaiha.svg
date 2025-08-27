@@ -1,0 +1,13 @@
+<!-- public/seigaiha.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120">
+  <defs>
+    <pattern id="waves" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <!-- classic seigaiha arc rows -->
+      <path d="M0 12 Q 6 0 12 12 T 24 12" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="1"/>
+      <path d="M0 24 Q 6 12 12 24 T 24 24" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="1"/>
+      <path d="M-12 12 Q -6 0 0 12" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="1"/>
+      <path d="M-12 24 Q -6 12 0 24" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#waves)" />
+</svg>
