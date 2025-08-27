@@ -58,7 +58,7 @@ Copy code
 npm run preview
 ```
 
-##📂 Project Structure
+## 📂 Project Structure
 ```lua
 
 tokyo-tei/
@@ -76,6 +76,6 @@ tokyo-tei/
 └── README.md
 ```
 
-##📄 License
+## 📄 License
 This project is for educational/portfolio use.
 All rights reserved © Tokyo Tei.
