@@ -30,31 +30,37 @@ Built with **React, Vite, Tailwind CSS, and Framer Motion**, this project blends
 
 Clone the repository:
 ```bash
-git clone https://github.com/ahhyanb/tokyo-tei.git
-cd tokyo-tei
-Install dependencies:
+  git clone https://github.com/ahhyanb/tokyo-tei.git
+  cd tokyo-tei
+  Install dependencies:
+```
 
-bash
-Copy code
-npm install
-Run the dev server:
+```bash
+  Copy code
+  npm install
+  Run the dev server:
+```
 
-bash
-Copy code
-npm run dev
-Build for production:
+```bash
+  Copy code
+  npm run dev
+  Build for production:
+```
 
-bash
-Copy code
-npm run build
-Preview the production build:
+```bash
+  Copy code
+  npm run build
+  Preview the production build:
+```
 
-bash
+```bash
 Copy code
 npm run preview
-📂 Project Structure
-lua
-Copy code
+```
+
+##📂 Project Structure
+```lua
+
 tokyo-tei/
 ├── public/               # Static assets (logo, motifs, images)
 ├── src/
@@ -68,9 +74,8 @@ tokyo-tei/
 ├── vite.config.js
 ├── package.json
 └── README.md
-🖼️ Screenshots
-(Add screenshots or mockups of your site here!)
+```
 
-📄 License
+##📄 License
 This project is for educational/portfolio use.
 All rights reserved © Tokyo Tei.
