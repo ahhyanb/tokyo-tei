@@ -1,12 +1,76 @@
-# React + Vite
+# Tokyo Tei – Modern React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page concept for **Tokyo Tei**, a family-owned Japanese restaurant in Wailuku, HI.  
+Built with **React, Vite, Tailwind CSS, and Framer Motion**, this project blends modern design trends with traditional Japanese motifs (like Seigaiha waves, claret/peach color palette, and poster-style typography).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- ⚡️ **Vite + React** for fast development
+- 🎨 **Tailwind CSS v4** for utility-first styling
+- 🌀 **Framer Motion** for smooth animations & interactivity
+- 🍣 Japanese-inspired motifs (Seigaiha waves, geometric accents, halo effects)
+- 📱 **Responsive design** that works across devices
+- 🔗 Social media integration (Facebook, Instagram)
+- ☎️ Click-to-call phone button
+- 📂 Clean project structure for easy customization and expansion
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide Icons](https://lucide.dev/)
+
+---
+
+## 📦 Getting Started
+
+Clone the repository:
+```bash
+git clone https://github.com/ahhyanb/tokyo-tei.git
+cd tokyo-tei
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the dev server:
+
+bash
+Copy code
+npm run dev
+Build for production:
+
+bash
+Copy code
+npm run build
+Preview the production build:
+
+bash
+Copy code
+npm run preview
+📂 Project Structure
+lua
+Copy code
+tokyo-tei/
+├── public/               # Static assets (logo, motifs, images)
+├── src/
+│   ├── components/
+│   │   └── LandingPage.jsx   # Main landing page component
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+├── package.json
+└── README.md
+🖼️ Screenshots
+(Add screenshots or mockups of your site here!)
+
+📄 License
+This project is for educational/portfolio use.
+All rights reserved © Tokyo Tei.
